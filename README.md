@@ -5,7 +5,7 @@
 ##<i>Making payments easier.</i>
 
 
-<a align="center" href="###">Watch Demo Video</a>
+<a align="center">Watch Demo Video</a>
   <b><a align="center" href="https://youtu.be/hCQOs1ZQJmM?si=wXJmhKuPUXk1IGC4">CLICK HERE TO WATCH</a></b>
 
 
