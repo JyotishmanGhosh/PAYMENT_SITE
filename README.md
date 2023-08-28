@@ -4,8 +4,10 @@
 
 ##<i>Making payments easier.</i>
 
-<a align="center" href="###"></a>
-  <b><a align="center"https://youtu.be/hCQOs1ZQJmM?si=wXJmhKuPUXk1IGC4">Watch Demo Video</a></b>
+
+<a align="center" href="###">Watch Demo Video</a>
+  <b><a align="center" href="https://youtu.be/hCQOs1ZQJmM?si=wXJmhKuPUXk1IGC4">CLICK HERE TO WATCH</a></b>
+
 
 ### 💭INSPIRATION
 <br>~ Our college AOT does not have its own fees payment portal. Therefore , many students and parents have to travel a certain distance and line up in queues for submission of College fees.Our team TECH WIZARD has taken the initiative to solve this problem by building ✨AOT PAYMENTS✨</br>
