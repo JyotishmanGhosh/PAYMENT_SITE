@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.confirmation-container {
+    text-align: center;
+}
+
+.confirmation-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    width: 400px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.payment-details {
+    margin-top: 20px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+strong {
+    font-weight: bold;
+}

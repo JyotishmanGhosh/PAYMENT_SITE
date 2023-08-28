@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .button-container{
+            text-align:center;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Gateway</title>
+    <link rel="stylesheet" href="card.css">
+</head>
+<body>
+    <div class="payment-container">
+        <div class="payment-header">
+            <h1>Secure Payment Gateway</h1>
+        </div>
+        <div class="payment-form">
+            <label for="card-number">Card Number</label>
+            <input type="text" id="card-number" placeholder="**** **** **** ****" required>
+            
+            <div class="expiry-cvv">
+                <div class="expiry">
+                    <label for="expiry">Expiration Date</label>
+                    <input type="text" id="expiry" placeholder="MM / YY" required>
+                </div>
+                <div class="cvv">
+                    <label for="cvv">CVV</label>
+                    <input type="text" id="cvv" placeholder="***" required>
+                </div>
+            </div>
+            
+            <label for="name">Cardholder Name</label>
+            <input type="text" id="name" placeholder="john dev" required>
+            <div class="button-container">
+                <a href="a.html"><button>Pay Now</button></a>
+            </div>
+            
+        </div>
+    </div>
+</body>
+</html>

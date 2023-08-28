@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    .button-container{
+      text-align: center;
+    }
+  </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="net.css">
+  <title>Net Banking Payment</title>
+</head>
+<body>
+  <header>
+    <h1>Net Banking Payment</h1>
+  </header>
+  <main>
+    <form class="payment-form">
+      <label for="bank-select">Select Bank:</label>
+      <select id="bank-select" name="bank">
+        <option value="bank1">Select your Bank</option>
+        <option value="bank2">State Bank of India </option>
+        <option value="bank3">Punjab National Bank</option>
+        <option value="bank4">HDFC Bank</option>
+        <option value="bank5">Axis Bank</option>
+        <option value="bank6">Kotak Mahindra Bank</option>
+        <!-- Add more bank options here -->
+      </select>
+
+      <label for="account-number">Account Number:</label>
+      <input type="text" id="account-number" name="accountNumber" required>
+
+      <label for="IFSC code">IFSC code:</label>
+      <input type="IFSC code" id="IFSC code" name="IFSC code" required>
+
+     
+    </form>
+    <div class="button-container">
+      <a href="a.html"><button>Pay Now</button></a>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2023 Net Banking Payment</p>
+  </footer>
+</body>
+</html>
